@@ -29,7 +29,7 @@ Search back through your history list of commands matching with your entered cha
 #### The Fuck
 Saves you from the troubles of mistypes. All with a simple command: 
 
-    `$ fuck`
+    $ fuck
 ![fck example](http://g.recordit.co/m1Ebdn4jOn.gif)
 
 Want to keep it work appropriate? Set an alias: `alias fml='fuck'`
