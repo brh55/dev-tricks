@@ -26,6 +26,14 @@ Search back through your history list of commands matching with your entered cha
     ctrl + R
 ![reverse-i-search](http://g.recordit.co/Et4oAhjoYl.gif)
 
+#### The Fuck
+Saves you from the troubles of mistypes. All with a simple command: 
+
+    `$ fuck`
+![fck example](http://g.recordit.co/m1Ebdn4jOn.gif)
+
+Want to keep it work appropriate? Set an alias: `alias fml='fuck'`
+
 ## iTerm2
 ### Moving an external pane into another pane
 ![Demo Panel Move In](http://g.recordit.co/K1RGqlpGZX.gif)
