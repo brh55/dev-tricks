@@ -35,6 +35,14 @@ Search back through your history list of commands matching with your entered cha
 Want to keep it work appropriate? Set an alias: `alias fml='fuck'`
 
 ## iTerm2
+[iTerm2](https://www.iterm2.com/) is everything and more you want in a terminal, and is a highly recommended for anyone still using terminal.
+
+### Pane Splitting
+Vertical Split: `cmd + D`
+
+Horizontal Split `cmd + shift + D`
+![Pane Split Example](http://g.recordit.co/IkDEU68TPK.gif)
+
 ### Moving an external pane into another pane
 ![Demo Panel Move In](http://g.recordit.co/K1RGqlpGZX.gif)
 
