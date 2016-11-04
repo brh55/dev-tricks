@@ -3,7 +3,7 @@ A set of frequently used tips and tricks to accelerate your workflow. Feel free 
 
 ## Terminal
 ### Aliases
-Aliases can help make those tedious task just a bit easier.
+Aliases can help make those tedious task just a bit easier. They are increasingly important for very commonly used set of commands.
 
 To set aliases by adding to your rc files like such: `alias gs='git status`
 
@@ -27,7 +27,7 @@ Search back through your history list of commands matching with your entered cha
 ![reverse-i-search](http://g.recordit.co/Et4oAhjoYl.gif)
 
 #### The Fuck
-Saves you from the troubles of mistypes. All with a simple command: 
+[The Fuck](https://github.com/nvbn/thefuck) is a "magnificant app" that saves you from the troubles of mistypes. All with a simple command: 
 
     $ fuck
 ![fck example](http://g.recordit.co/m1Ebdn4jOn.gif)
