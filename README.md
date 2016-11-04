@@ -3,7 +3,7 @@ A set of frequently used tips and tricks to accelerate your workflow. Feel free 
 
 ## Terminal
 ### Aliases
-Aliases can help make those tedious task just a bit easier. They are increasingly important for very commonly used set of commands.
+Aliases can help make those tedious task just a bit easier. They are increasingly important for very commonly used set of commands. Below are examples of many commonly used aliases, feel free to name your aliases as you please.
 
 To set aliases by adding to your rc files like such: `alias gs='git status`
 
@@ -18,6 +18,12 @@ To set aliases by adding to your rc files like such: `alias gs='git status`
     alias gd='git diff'
     alias got='git '
     alias get='git '
+    
+#### Python Aliases
+    alias activate='source venv/bin/activate'
+    alias pyenv='virtualenv venv'
+    alias pydeps='pip install -r requirements.txt'
+    alias pyinstall='pip install '
 
 ### Miscellaneous 
 #### Reverse-I-Search
