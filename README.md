@@ -18,14 +18,14 @@ To set aliases by adding to your rc files like such: `alias gs='git status`
     alias gd='git diff'
     alias got='git '
     alias get='git '
-    
+
 #### Python Aliases
     alias activate='source venv/bin/activate'
     alias pyenv='virtualenv venv'
     alias pydeps='pip install -r requirements.txt'
     alias pyinstall='pip install '
 
-### Miscellaneous 
+### Miscellaneous
 #### Reverse-I-Search
 Search back through your history list of commands matching with your entered character.
 
@@ -33,7 +33,7 @@ Search back through your history list of commands matching with your entered cha
 ![reverse-i-search](http://g.recordit.co/Et4oAhjoYl.gif)
 
 #### The Fuck
-[The Fuck](https://github.com/nvbn/thefuck) is a "magnificant app" that saves you from the troubles of mistypes. All with a simple command: 
+[The Fuck](https://github.com/nvbn/thefuck) is a "magnificant app" that saves you from the troubles of mistypes. All with a simple command:
 
     $ fuck
 ![fck example](http://g.recordit.co/m1Ebdn4jOn.gif)
@@ -55,7 +55,21 @@ Horizontal Split `cmd + shift + D`
 ## Sublime
 ### Quick Add Next
 Rapidly find occurences of a matching set of characters:
-    
+
     cmd + D
-    
+
 ![quick add demo](http://g.recordit.co/y4ElMIkG3R.gif)
+
+## `oh-my-zsh`
+
+Community-driven framework for managing zsh configurations:
+
+[https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+Themes can be found [here](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
+
+### Why do I need it?
+
+`oh-my-zsh` not only provides amazing themes for your shell, but it also offers custom aliases for *nix commands, custom plugins for softwares such as git, cURL, and much more. A complete list of plugins can be found [here](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins).
+
+Speaking from personal experience, `oh-my-zsh` has helped me **tremendously**.
